@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jidoG8/BLOG-PREVIEW-CARD.git)
-- Live Site URL: [Add live site URL here](https://jidog8.github.io/BLOG-PREVIEW-CARD/)
+- Solution URL: [View source Code in Github😊](https://github.com/jidoG8/BLOG-PREVIEW-CARD.git)
+- Live Site URL: [View the live preview card in action.](https://jidog8.github.io/BLOG-PREVIEW-CARD/)
 
 ## My process
 
