@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![DESKTOP VIEW](image.png)
-![MOBILE VIEW](image-1.png)
+![DESKTOP VIEW](image-3.png)
+![MOBILE VIEW](image-4.png)
 
 ### Links
 
@@ -93,8 +93,8 @@ Using CSS layers to organize styles by purpose and control specificity.
 
 ### Useful resources
 
-- [CSS Media Queries](https://www.youtube.com/watch?v=69IbzTWg5PM&t=4s) - Great explanation of mobile-first responsive design principles
-
+- [CSS Media Queries ](https://www.youtube.com/watch?v=69IbzTWg5PM&t=4s) - Great explanation of mobile-first responsive design principles
+- [CSS Media Queries](https://www.youtube.com/watch?v=IsC5-C_nuF4)
 - [CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) - Essential for maintainable color schemes and theming
 
 ## Author

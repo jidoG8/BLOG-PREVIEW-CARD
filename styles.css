@@ -28,6 +28,7 @@
 		--white: hsl(0, 0%, 100%);
 		--gray-500: hsl(0, 0%, 42%);
 		--gray-950: hsl(0, 0%, 7%);
+		--hover: #468a9a;
 	}
 }
 
@@ -62,8 +63,11 @@
 		font-weight: 800;
 	}
 
-	.card button:hover {
+	.card button {
 		cursor: pointer;
+	}
+
+	.card button:hover {
 		background-color: orangered;
 		box-shadow: 0 0 6px black;
 	}
@@ -72,14 +76,33 @@
 		font-weight: 800;
 	}
 
+	.coder {
+		margin-left: 0.5em;
+	}
+
+	a {
+		text-decoration: none;
+		font-weight: 500;
+	}
+
+	a:hover {
+		color: var(--hover);
+	}
+
+	a:active {
+		color: orangered;
+	}
+
 	.attribution {
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		flex-wrap: wrap;
 		margin: 1em;
 		font-weight: 500;
 		color: var(--gray-500);
-		padding: 1em;
+		font-size: 0.8rem;
+		text-align: center;
 	}
 
 	.attribution .logo {
@@ -108,5 +131,9 @@
 
 	.card .info {
 		margin-top: 1rem;
+	}
+
+	.attribution a {
+		font-size: 0.9rem;
 	}
 }
